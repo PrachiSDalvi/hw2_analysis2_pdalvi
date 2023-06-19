@@ -65,3 +65,7 @@ use Sphinx with restructuredText to write and generate documentation.
 
 
 
+The second part of homework 2 (analysis 2 - Wrangling csv files) is present in this folder.
+The input files are copied with the logs folder into the data folder and the output files generated are stored in the output folder.
+
+For the hacker question, all the input files were copied in the /data/hacker_logs folders and few were renamed to JEF and few to MAE stream for testing purpose. The output of the hacker question is also stored in the /output/hacker_output to differentiate them from the first part of analysis 2.

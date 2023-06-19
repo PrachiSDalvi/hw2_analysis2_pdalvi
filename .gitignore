@@ -8,8 +8,8 @@ tmp/
 out/
 **/out/
 
-#Ignore Data Folder
-data/
+#Ignore Data Folder (Added data folder due to the test folder created for hacker question)
+#data/
 
 
 # Python
